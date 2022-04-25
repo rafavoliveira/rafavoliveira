@@ -2,7 +2,6 @@
 
 - 🌱  I’m currently learning NodeJS, Typescript, React, React Native, MongoDB and MySQL
 - 🗄️ My projects can be quickly found at https://github.com/rafavoliveira
-- 💬 Ask me about ...
 - 😄 Pronouns: he/
 
 <div align="center">
@@ -18,7 +17,7 @@
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
     <img align="center" alt="Rafa-Node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
   <img align="center" alt="Rafa-MySql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
-  <img align="center" alt="Rafa-Mongo" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
+  
 </div>
   
   ##
